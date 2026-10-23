@@ -1,3 +1,5 @@
 # The _Tracker_ App
 
-A mobile-first workout tracker. It logs strength sessions against planned routines, keeps the history and shows how the load progresses week over week, with an AI assistant that answers from the user's own training data.
+**Live demo:** https://mygtracker.vercel.app/
+
+A mobile-first workout tracker for logging strength sessions, tracking progress, and getting AI-assisted insights from your own training data.
