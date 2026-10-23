@@ -1,0 +1,1 @@
+A mobile-first workout tracker. It logs strength sessions against planned routines, keeps the history and shows how the load progresses week over week, with an AI assistant that answers from the user's own training data.
